@@ -1,9 +1,4 @@
-<p align="center">
-  <a href="https://proximity-mobile.web.app">
-    <img width="100px" src="https://proximity-mobile.web.app/images/proximity-logo-round.png">
-  </a>
-  <h1 align="center">Proximity</h1>  
-</p>
+
 
 <p align="center">
 <a href="https://proximity-mobile.web.app">
